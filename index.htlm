@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gracias eve preciosa xox</title>
+    
+    <link rel="stylesheet" href="me_perdonas.css">
+    
+    
+    <style>
+        #No {
+    grid-row: 5;
+    grid-column: 6;
+}
+    </style>
+</head>
+<body>  
+        <div>
+            <p id="p" hidden>Si quisiste tocar el boton no es pq sos una infiel, eve traicionera...</p>
+        <h1 id="1">Me Perdonas ev preciosa, mira q si no lo haces m largo a llorar </h1>
+        <section>
+        <button id="Si">Si</button>
+        <button id="No">No</button>
+    </section>
+    </div>
+   
+    <script src="me_perdonas.js"></script>
+</body>
+</html>
